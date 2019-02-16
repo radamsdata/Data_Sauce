@@ -1,0 +1,1 @@
+World Air Quality Project - http://aqicn.org/city/united-kingdom/scotland/aberdeen-king-street/   (uses same data sensors from Air Quality Scotland webiste but includes data on wind, humidity. Not yet found the raw data source)
